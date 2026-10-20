@@ -3019,7 +3019,7 @@ Example: One effect reads, “White creatures get +1/+1,” and another reads, �
 
 614.1b Effects that use the word “skip” are replacement effects. These replacement effects use the word “skip” to indicate what events, steps, phases, or turns will be replaced with nothing.
 
-614.1c Effects that read “[This permanent] enters the battlefield with . . . ,” “As [this permanent] enters the battlefield . . . ,” or “[This permanent] enters the battlefield as . . . ” are replacement effects.
+614.1c Effects that read “[This permanent] enters the battlefield with . . . ,” “As [this permanent] enters the battlefield . . . ,” or “[This permanent] enters the battlefield as . . . “ are replacement effects.
 
 614.1d Continuous effects that read “[This permanent] enters the battlefield . . .” or “[Objects] enter the battlefield . . .” are replacement effects.
 
