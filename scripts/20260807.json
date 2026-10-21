@@ -24832,7 +24832,7 @@
             "unfinityDoctorGlossary": "下列出现于Unfinity、无疆新宇宙：神秘博士系列中的名词之译名在官网文章中出现，但未出现于卡牌上。"
         }
     },
-    "homepage": "<p>此中文版《万智牌完整规则》是大中华区裁判社群志愿者的翻译成果，并非官方译本。</p>\n\n<p>如果您对某条规则的翻译发现错误、或有改进的建议，亦或有意帮助翻译，请通过下列方式联系维护者：</p>\n<ul>\n  <li><a href=\"https://github.com/HeliumOctahelide/magic-comp-rules-zh-cn\">Github Issue</a></li>\n  <li><a href=\"https://mtgch.com/feedback\">大学院废墟用户反馈</a></li>\n</ul>\n\n<p>中文版翻译负责人：李思扬</p>\n<p>中文版翻译维护者：金汉宁、简单</p>\n<p>历史版本负责人及贡献者：杜昊、张天启、许兆本、杨俊杰、刘清源等。</p>",
+    "homepage": "<p>此中文版《万智牌完整规则》是大中华区裁判社群志愿者的翻译成果，并非官方译本。</p>\n\n<p>如果您对某条规则的翻译发现错误、或有改进的建议，亦或有意帮助翻译，请通过下列方式联系维护者：</p>\n<ul>\n  <li><a class=\"link link-cover\" href=\"https://github.com/HeliumOctahelide/magic-comp-rules-zh-cn\">Github Issue</a></li>\n  <li><a class=\"link link-cover\" href=\"https://mtgch.com/feedback\">大学院废墟用户反馈</a></li>\n</ul>\n\n<p>中文版翻译负责人：李思扬</p>\n<p>中文版翻译维护者：金汉宁、简单</p>\n<p>历史版本负责人及贡献者：杜昊、张天启、许兆本、杨俊杰、刘清源等。</p>",
     "glossaryGroups": {
         "en": [
             {
